@@ -1,0 +1,3 @@
+D:/c++/Home Task 14/banquet table/cmake-build-debug/CMakeFiles/banquet_table.dir
+D:/c++/Home Task 14/banquet table/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c++/Home Task 14/banquet table/cmake-build-debug/CMakeFiles/rebuild_cache.dir
